@@ -15,6 +15,7 @@ Data deleted may include:
 Account profile information
 App usage data tied to your account
 User-generated content linked to your account
+
 Data that may be retained:
 
 Records required for legal, security, fraud prevention, or compliance purposes.
